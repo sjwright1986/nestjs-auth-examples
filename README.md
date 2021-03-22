@@ -35,3 +35,9 @@ Here's the examples in this repo:
 A very basic example of a Basic Auth implementation in a NestJS REST API.
 
 You can [view a basic auth tutorial on my website](https://www.stewright.me/2021/03/add-basic-auth-to-nestjs-rest-api/).
+
+## Header API Key
+
+A very basic example of a Header Api Key implementation in a NestJS REST API.
+
+You can [view a header API key tutorial on my website](https://www.stewright.me/2021/03/add-header-api-key-to-nestjs-rest-api/).
