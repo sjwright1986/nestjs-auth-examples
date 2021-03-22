@@ -18,6 +18,14 @@ npm start
 
 Each of the examples can be accessed by `http://localhost:3000` from your HTTP client.
 
+# Tests
+
+Tests are implemented. E2E tests are encouraged:
+
+```
+npm run test:e2e
+```
+
 # Examples
 
 Here's the examples in this repo:
