@@ -14,7 +14,7 @@ describe('AppController (e2e)', () => {
       providers: []
     }).compile();
 
-    configService = moduleFixture.get<ConfigService>('ConfigService');
+    configService = moduleFixture.get<ConfigService>(ConfigService);
     app = moduleFixture.createNestApplication();
 
     await app.init();
